@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**luis-furtado/luis-furtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Ex [MbLabs](https://mblabs.com.br/) Working at Arco Platform Ltd. as a Software Engineer.<br>
+Bachelor Science in Software Engineering at UNB.<br>
+Antusiast in Software Architecture.<br>
+Check out my [portfolio website](https://luisfurtadoaraujo.com)!<br>
 
-Here are some ideas to get you started:
+### 🚧 Projects | Contributions (Public only)
+[Cypress](https://www.cypress.io/) Fast, easy and reliable testing for anything that runs in a browser.
+[Alohomora](https://github.com/Alohomora-team) Manage the flow of people in condominiums using biometric identification technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Technologies I use most
+* Backend:JavaScript/TypeScript, Python and Kotlin
+* Frontend: JavaScript/TypeScript, React, Angular, Vue.
+* Databases: PostgreSQL, MongoDB, Firestore, etc...
+* Cloud: AWS and GCP
+
+### 📭 Contact Me
+[Linkedin](https://linkedin.com/in/luis-furtado-)
+[Personal email](luiscesm1@gmail.com)
