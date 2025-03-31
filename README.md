@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me
-Ex [MbLabs](https://mblabs.com.br/) Working at Arco Platform Ltd. as a Software Engineer.<br>
+Ex [![MbLabs](https://img.shields.io/badge/-MBLABS-07DA63)](https://mblabs.com.br/) Working at Arco Platform Ltd. as a Software Engineer.<br>
 Bachelor Science in Software Engineering at UNB.<br>
 Antusiast in Software Architecture.<br>
 Check out my [portfolio website](https://luisfurtadoaraujo.com)!<br>
@@ -19,3 +19,5 @@ Check out my [portfolio website](https://luisfurtadoaraujo.com)!<br>
 ### 📭 Contact Me
 [Linkedin](https://linkedin.com/in/luis-furtado-)
 [Personal email](luiscesm1@gmail.com)
+
+https://img.shields.io/badge/-MBLABS-07DA63
