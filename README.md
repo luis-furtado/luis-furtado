@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me
-Ex [![MbLabs](https://img.shields.io/badge/-MBLABS-07DA63)](https://mblabs.com.br/) Working at Arco Platform Ltd. as a Software Engineer.<br>
+Ex [![MbLabs](https://img.shields.io/badge/-MBLABS-07DA63)](https://mblabs.com.br/) Working at [![Arco Platform Ltd](https://img.shields.io/badge/-ArcoPlatform-f9f9f9)](https://arcoeducacao.com.br/). as a Software Engineer.<br>
 Bachelor Science in Software Engineering at UNB.<br>
 Antusiast in Software Architecture.<br>
 Check out my [portfolio website](https://luisfurtadoaraujo.com)!<br>
