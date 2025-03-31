@@ -7,17 +7,15 @@ Antusiast in Software Architecture.<br>
 Check out my  [![portfolio website](https://img.shields.io/badge/-Website-21618c)](https://luisfurtadoaraujo.com)<br>
 
 ### 🚧 Projects | Contributions (Public only)
-[Cypress](https://www.cypress.io/) Fast, easy and reliable testing for anything that runs in a browser.
-[Alohomora](https://github.com/Alohomora-team) Manage the flow of people in condominiums using biometric identification technologies.
+[![Cypress](https://img.shields.io/badge/-Cypress-4B7B5B)](https://www.cypress.io/) Fast, easy and reliable testing for anything that runs in a browser.<br>
+[![Alohomora](https://img.shields.io/badge/-Alohomora-c6f908)](https://github.com/Alohomora-team) Manage the flow of people in condominiums using biometric identification technologies.
 
 ### ⚡ Technologies I use most
-* Backend:JavaScript/TypeScript, Python and Kotlin
+* Backend: JavaScript/TypeScript, Python and Kotlin
 * Frontend: JavaScript/TypeScript, React, Angular, Vue.
 * Databases: PostgreSQL, MongoDB, Firestore, etc...
 * Cloud: AWS and GCP
 
 ### 📭 Contact Me
-[Linkedin](https://linkedin.com/in/luis-furtado-)
-[Personal email](luiscesm1@gmail.com)
-
-https://img.shields.io/badge/-MBLABS-07DA63
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8)](https://linkedin.com/in/luis-furtado-)
+[![Personal email](https://img.shields.io/badge/-Email-b10e3b)](luiscesm1@gmail.com)
